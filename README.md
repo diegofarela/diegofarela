@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diegofarela
-- 🌱 I’m data analyst with a programming background 💞️
+-  I’m data analyst with a programming background 
 -  I’m currently finishing my studies at UC Davis while also doing independent studies
 
 Welcome to my portfolio of projects!
